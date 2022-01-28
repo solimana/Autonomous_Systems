@@ -1,0 +1,11 @@
+192.168.1.122
+
+wifi : ME597
+pass : ME597me1015
+
+RPi:
+user : pi
+pass : spring2022
+
+ssh to RPi instructions: (you should be on the same network)
+https://www.instructables.com/Raspberry-Pi-How-to-SSH-Raspberry-Pi-Remote-With-U/
